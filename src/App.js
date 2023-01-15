@@ -1,8 +1,8 @@
-import Title from './components/Title';
+import Setup from "./examples/2-headers.js";
 function App() {
   return (
     <main>
-      <Title />
+      <Setup />
     </main>
   );
 }
