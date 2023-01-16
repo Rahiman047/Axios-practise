@@ -1,4 +1,4 @@
-import Setup from "./examples/2-headers.js";
+import Setup from "./examples/6-interceptors";
 function App() {
   return (
     <main>
